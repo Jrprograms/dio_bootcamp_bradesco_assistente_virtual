@@ -1,0 +1,16 @@
+data,descricao,categoria,tipo,valor
+2026-08-01,Salario mensal,Renda,entrada,3200.00
+2026-08-02,Aluguel,Moradia,saida,1050.00
+2026-08-03,Supermercado,Alimentacao,saida,420.35
+2026-08-04,Transporte por aplicativo,Transporte,saida,86.70
+2026-08-06,Conta de energia,Contas,saida,168.42
+2026-08-07,Internet residencial,Contas,saida,99.90
+2026-08-10,Restaurante,Lazer,saida,74.80
+2026-08-13,Farmacia,Saude,saida,58.20
+2026-08-15,Assinaturas digitais,Lazer,saida,54.90
+2026-08-18,Curso online,Educacao,saida,89.90
+2026-08-20,Pix recebido,Renda,entrada,250.00
+2026-08-21,Supermercado,Alimentacao,saida,310.10
+2026-08-22,Onibus e metro,Transporte,saida,132.00
+2026-08-25,Reserva guardada,Reserva,saida,300.00
+2026-08-28,Cinema,Lazer,saida,46.00

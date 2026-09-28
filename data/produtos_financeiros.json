@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Conta com organizador de gastos",
+    "tipo": "organizacao",
+    "perfil_indicado": "iniciante",
+    "risco": "nao aplicavel",
+    "liquidez": "imediata",
+    "descricao": "Ajuda a categorizar despesas e acompanhar o saldo mensal.",
+    "quando_sugerir": "Quando a pessoa quer entender melhor os gastos."
+  },
+  {
+    "nome": "Reserva com liquidez diaria",
+    "tipo": "reserva",
+    "perfil_indicado": "conservador",
+    "risco": "baixo",
+    "liquidez": "diaria",
+    "descricao": "Alternativa educativa para separar dinheiro de emergencia com acesso rapido.",
+    "quando_sugerir": "Quando a prioridade e montar ou reforcar reserva de emergencia."
+  },
+  {
+    "nome": "Conteudo de educacao financeira",
+    "tipo": "educacao",
+    "perfil_indicado": "iniciante",
+    "risco": "nao aplicavel",
+    "liquidez": "nao aplicavel",
+    "descricao": "Trilha de estudos sobre orcamento, juros, metas e consumo consciente.",
+    "quando_sugerir": "Quando a pessoa ainda esta aprendendo conceitos basicos."
+  }
+]

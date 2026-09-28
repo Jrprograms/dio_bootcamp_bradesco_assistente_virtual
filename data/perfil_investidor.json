@@ -1,0 +1,21 @@
+{
+  "cliente": "Cliente Exemplo",
+  "renda_mensal": 3200.0,
+  "reserva_atual": 1200.0,
+  "meta_reserva": 9600.0,
+  "objetivo_principal": "Montar reserva de emergencia",
+  "horizonte_meses": 18,
+  "tolerancia_risco": "baixa",
+  "conhecimento_financeiro": "iniciante",
+  "preferencias": [
+    "linguagem simples",
+    "baixo risco",
+    "liquidez",
+    "explicacoes curtas"
+  ],
+  "restricoes": [
+    "nao recomendar produtos fora da base",
+    "nao informar taxas nao cadastradas",
+    "nao tratar dados mockados como dados reais"
+  ]
+}
